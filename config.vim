@@ -14,3 +14,6 @@ inoremap [ []<Esc>ha
 inoremap " ""<Esc>ha
 inoremap ' ''<Esc>ha
 inoremap ` ``<Esc>ha
+nnoremap j gj
+nnoremap k gk
+nnoremap ^ g^
